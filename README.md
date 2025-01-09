@@ -9,7 +9,7 @@
 - FE : ReactJS
 - BE : Node.js, Express.js
 - DB : MongoDB(NoSQL)
-- DevOps : GitLab
+- DevOps : GitLab => Github
 - 협업 툴 : Discord
 
 ## ⏰ 개발 기간
